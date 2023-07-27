@@ -1,4 +1,5 @@
-# Name of Project- [Date Night Planner](https://luminous-moonbeam-fb3c60.netlify.app) 
+# Name of Project- Date Night Planner
+[Date Night Planner](https://luminous-moonbeam-fb3c60.netlify.app) 
 
 # Group Project: Begin Wireframes & Software Requirements
 
